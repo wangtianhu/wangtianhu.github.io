@@ -9,7 +9,7 @@
         this.isRun=false;
         //时间相隔的数据
         this.startTime=new Date();
-        this.endTime=0;
+        this.endTime=0; 
         this.Dvalue=0; //时间差
         //场景中所有的游戏对象
         this.roles=[];
